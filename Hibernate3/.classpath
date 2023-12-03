@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/govin/Downloads/mysql-connector-java-8.0.29.jar"/>
+	<classpathentry kind="lib" path="C:/Users/govin/Downloads/apache-tomcat-8.5.95-windows-x64/apache-tomcat-8.5.95/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/govin/Downloads/hibernatefile/hibernatefile/txw2-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/govin/Downloads/hibernatefile/hibernatefile/stax-ex-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/govin/Downloads/hibernatefile/hibernatefile/jboss-logging-3.4.3.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/govin/Downloads/hibernatefile/hibernatefile/jboss-transaction-api_1.2_spec-1.1.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/govin/Downloads/hibernatefile/hibernatefile/jaxb-runtime-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/govin/Downloads/hibernatefile/hibernatefile/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/govin/Downloads/hibernatefile/hibernatefile/javax.persistence-api-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/govin/Downloads/hibernatefile/hibernatefile/javax.activation-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/govin/Downloads/hibernatefile/hibernatefile/jandex-2.4.2.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/govin/Downloads/hibernatefile/hibernatefile/hibernate-core-5.6.15.Final.jar" sourcepath="C:/Users/govin/.m2/repository/org/hibernate/hibernate-core/5.6.15.Final/hibernate-core-5.6.15.Final-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/govin/Downloads/hibernatefile/hibernatefile/istack-commons-runtime-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/govin/Downloads/hibernatefile/hibernatefile/hibernate-commons-annotations-5.1.2.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/govin/Downloads/hibernatefile/hibernatefile/FastInfoset-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/govin/Downloads/hibernatefile/hibernatefile/classmate-1.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/govin/Downloads/hibernatefile/hibernatefile/byte-buddy-1.12.18.jar"/>
+	<classpathentry kind="lib" path="C:/Users/govin/Downloads/hibernatefile/hibernatefile/antlr-2.7.7.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
